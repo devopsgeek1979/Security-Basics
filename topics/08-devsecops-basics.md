@@ -1,4 +1,4 @@
-# 08. DevSecOps Basics
+# ⚙️ 08. DevSecOps Basics
 
 ## Table of Contents
 

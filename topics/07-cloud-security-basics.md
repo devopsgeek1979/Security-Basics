@@ -1,4 +1,4 @@
-# 07. Cloud Security Basics
+# ☁️ 07. Cloud Security Basics
 
 ## Table of Contents
 

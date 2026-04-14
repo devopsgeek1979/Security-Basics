@@ -1,4 +1,4 @@
-# Security Interview Roadmap
+# 🗺️ Security Interview Roadmap
 
 ## Table of Contents
 

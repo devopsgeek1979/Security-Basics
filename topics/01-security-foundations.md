@@ -1,4 +1,4 @@
-# 01. Security Foundations
+# 🧱 01. Security Foundations
 
 ## Table of Contents
 

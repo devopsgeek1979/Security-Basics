@@ -1,4 +1,4 @@
-# 02. Network and Web Interview Q&A
+# 🛡️ 02. Network and Web Interview Q&A
 
 ## Table of Contents
 

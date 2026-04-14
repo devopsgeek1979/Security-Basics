@@ -1,4 +1,4 @@
-# Security Glossary
+# 📚 Security Glossary
 
 - **ABAC:** Attribute-Based Access Control
 - **ACL:** Access Control List

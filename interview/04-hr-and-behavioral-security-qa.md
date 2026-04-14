@@ -1,4 +1,4 @@
-# 04. HR and Behavioral Security Q&A
+# 💬 04. HR and Behavioral Security Q&A
 
 ## Table of Contents
 

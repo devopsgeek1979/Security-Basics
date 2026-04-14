@@ -1,4 +1,4 @@
-# 03. Web Security and OWASP Basics
+# 🕸️ 03. Web Security and OWASP Basics
 
 ## Table of Contents
 

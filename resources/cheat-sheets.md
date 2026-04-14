@@ -1,4 +1,4 @@
-# Security Interview Cheat Sheet
+# 📌 Security Interview Cheat Sheet
 
 ## Table of Contents
 

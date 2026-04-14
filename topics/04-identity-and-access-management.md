@@ -1,4 +1,4 @@
-# 04. Identity and Access Management (IAM)
+# 🪪 04. Identity and Access Management (IAM)
 
 ## Table of Contents
 

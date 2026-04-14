@@ -1,4 +1,4 @@
-# YouTube References by Topic
+# 🎥 YouTube References by Topic
 
 ## Table of Contents
 

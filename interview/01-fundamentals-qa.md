@@ -1,4 +1,4 @@
-# 01. Fundamentals Interview Q&A
+# 🎯 01. Fundamentals Interview Q&A
 
 ## Table of Contents
 

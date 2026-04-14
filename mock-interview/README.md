@@ -1,4 +1,4 @@
-# Mock Interview Bank
+# 🎓 Mock Interview Bank
 
 ## Table of Contents
 

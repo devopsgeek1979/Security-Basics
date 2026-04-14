@@ -1,4 +1,4 @@
-# 05. Cryptography Basics
+# 🔑 05. Cryptography Basics
 
 ## Table of Contents
 

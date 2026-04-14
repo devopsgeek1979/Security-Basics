@@ -1,4 +1,4 @@
-# SOC Analyst Mock Interview Q&A
+# 🧭 SOC Analyst Mock Interview Q&A
 
 ## Table of Contents
 

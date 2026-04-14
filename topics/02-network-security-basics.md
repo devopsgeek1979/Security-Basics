@@ -1,4 +1,4 @@
-# 02. Network Security Basics
+# 🌐 02. Network Security Basics
 
 ## Table of Contents
 

@@ -1,4 +1,4 @@
-# Security Basics
+# 🔐 Security Basics
 
 Interview-ready cybersecurity fundamentals with real-world Q&A, guided study plans, and practical mock interviews.
 
@@ -123,11 +123,15 @@ Use the curated, topic-wise references in [`resources/youtube-references.md`](./
 
 ## Contributor
 
+> 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓸𝓻 𝓢𝓹𝓸𝓽𝓵𝓲𝓰𝓱𝓽 ✨
+
 | Name | Role | Organization | Location | Recognition |
 | --- | --- | --- | --- | --- |
 | Shyam Sunder | Tech Lead (Security) | VVDN Technologies | Gurugram | Contributor and old friend |
 
 ## Acknowledgements
+
+> 𝓐𝓬𝓴𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮𝓶𝓮𝓷𝓽𝓼 💙
 
 > Heartfelt thanks to **Shyam Sunder**, a valued contributor and old friend, for his support, encouragement, and practical security insights during the creation of this repository.
 >
