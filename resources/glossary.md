@@ -1,0 +1,27 @@
+# Security Glossary
+
+- **ABAC:** Attribute-Based Access Control
+- **ACL:** Access Control List
+- **AES:** Advanced Encryption Standard
+- **API:** Application Programming Interface
+- **CSP:** Content Security Policy
+- **CSRF:** Cross-Site Request Forgery
+- **CVE:** Common Vulnerabilities and Exposures
+- **CVSS:** Common Vulnerability Scoring System
+- **DAST:** Dynamic Application Security Testing
+- **DLP:** Data Loss Prevention
+- **IAM:** Identity and Access Management
+- **IDS/IPS:** Intrusion Detection/Prevention System
+- **MFA:** Multi-Factor Authentication
+- **OWASP:** Open Worldwide Application Security Project
+- **RBAC:** Role-Based Access Control
+- **RCA:** Root Cause Analysis
+- **SAST:** Static Application Security Testing
+- **SCA:** Software Composition Analysis
+- **SIEM:** Security Information and Event Management
+- **SOC:** Security Operations Center
+- **SSO:** Single Sign-On
+- **SSRF:** Server-Side Request Forgery
+- **TLS:** Transport Layer Security
+- **WAF:** Web Application Firewall
+- **XSS:** Cross-Site Scripting
