@@ -1,12 +1,26 @@
 # DevSecOps Mock Interview Q&A
 
+## Round Snapshot
+
+- Focus: secure pipelines, supply chain, and release governance
+- Best answer style: automation-first and risk-based
+- What interviewers look for: practical controls that developers will actually use
+
+> Tip: Show how security can move fast without becoming a blocker.
+
 ## 1 What is DevSecOps in one minute
 
 DevSecOps integrates security controls into the software lifecycle so security is continuous, automated, and shared across development, operations, and security teams.
 
 ## 2 Which security checks belong in CI pipeline
 
-SAST, dependency vulnerability scan, secret scan, IaC scan, container image scan, license checks, and policy gate on critical findings.
+- SAST
+- Dependency vulnerability scan
+- Secret scan
+- IaC scan
+- Container image scan
+- License checks
+- Policy gate on critical findings
 
 ## 3 How do you manage vulnerable dependencies
 
@@ -46,7 +60,12 @@ Security and compliance rules are defined in code and automatically enforced dur
 
 ## 12 How do you secure containers
 
-Use minimal base images, non-root users, image signing, vulnerability scanning, runtime restrictions, and regular patching.
+- Use minimal base images
+- Run as non-root users
+- Enable image signing
+- Scan for vulnerabilities
+- Apply runtime restrictions
+- Patch regularly
 
 ## 13 How do you handle a critical finding on release day
 
@@ -66,4 +85,9 @@ Use ephemeral runners, least privilege identities, strict network egress, signed
 
 ## 17 What is secure release evidence
 
-Traceable proof of code review, test results, scan outputs, approvals, artifact signature, and deployment audit records.
+- Code review proof
+- Test results
+- Scan outputs
+- Approval records
+- Artifact signature
+- Deployment audit records

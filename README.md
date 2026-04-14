@@ -1,6 +1,8 @@
 # Security Basics
 
-Interview-ready cybersecurity fundamentals with real-world Q&A and guided study plans.
+Interview-ready cybersecurity fundamentals with real-world Q&A, guided study plans, and practical mock interviews.
+
+If you find this repository useful, give it a star.
 
 ![Focus](https://img.shields.io/badge/Focus-Interview%20Preparation-0ea5e9)
 ![Coverage](https://img.shields.io/badge/Topics-Foundations%20to%20DevSecOps-22c55e)
@@ -8,7 +10,7 @@ Interview-ready cybersecurity fundamentals with real-world Q&A and guided study 
 
 ## Why This Repo
 
-This repository helps you prepare for security interviews with concise theory, practical controls, and scenario-based answers.
+This repository helps you prepare for security interviews with concise theory, practical controls, modern scenario-based answers, and structured mock rounds.
 
 It is built for:
 
@@ -19,7 +21,7 @@ It is built for:
 ## What You Will Learn
 
 - Security fundamentals and the CIA triad
-- Network and web security with OWASP focus
+- Network and web security with an OWASP focus
 - IAM, authentication, authorization, and MFA
 - Cryptography and TLS basics
 - Vulnerability management lifecycle
@@ -66,9 +68,9 @@ Security-Basics/
 
 ## How to Use This Repository
 
-1. Start from [`topics/01-security-foundations.md`](./topics/01-security-foundations.md)
+1. Start with [`topics/01-security-foundations.md`](./topics/01-security-foundations.md)
 2. Follow the schedule in [`ROADMAP.md`](./ROADMAP.md)
-3. Practice `interview` answers in 60-90 second format
+3. Practice `interview` answers in a 60-90 second format
 4. Move to `mock-interview` for advanced scenario rounds
 5. Revise daily using `resources/glossary.md` and `resources/cheat-sheets.md`
 
@@ -78,13 +80,13 @@ Security-Basics/
 
 - Complete one topic per day from `topics`
 - Practice one interview set per day from `interview`
-- Finish with `mock-interview` full round on Day 14
+- Finish with a full `mock-interview` round on Day 14
 
 ### Path B Deep Prep 4 Weeks
 
-- Weeks 1-2 fundamentals and core controls
-- Week 3 cloud security and vulnerability management
-- Week 4 DevSecOps and full mock interview drills
+- Weeks 1-2: fundamentals and core controls
+- Week 3: cloud security and vulnerability management
+- Week 4: DevSecOps and full mock interview drills
 
 ## Roles This Repo Helps You Target
 
@@ -96,7 +98,7 @@ Security-Basics/
 
 ## YouTube-Based Learning
 
-Use the curated topic-wise references in [`resources/youtube-references.md`](./resources/youtube-references.md).
+Use the curated, topic-wise references in [`resources/youtube-references.md`](./resources/youtube-references.md).
 
 ## Contribution Ideas
 
@@ -107,12 +109,12 @@ Use the curated topic-wise references in [`resources/youtube-references.md`](./r
 
 ## Contributor
 
-| Name | Role | Organization | Location |
-| --- | --- | --- | --- |
-| Shyam Sunder | Tech Lead (Security) | VVDN Technologies | Gurugram |
+| Name | Role | Organization | Location | Recognition |
+| --- | --- | --- | --- | --- |
+| Shyam Sunder | Tech Lead (Security) | VVDN Technologies | Gurugram | Contributor and old friend |
 
 ## Acknowledgements
 
-> Special thanks to **Shyam Sunder** for valuable guidance, support, and contribution toward the creation of this repository.
+> Heartfelt thanks to **Shyam Sunder**, a valued contributor and old friend, for his support, encouragement, and practical security insights during the creation of this repository.
 >
-> Your leadership and practical security insights are sincerely appreciated.
+> This repository is stronger because of his thoughtful input and friendship.

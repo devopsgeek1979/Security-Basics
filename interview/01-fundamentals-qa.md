@@ -1,5 +1,13 @@
 # 01. Fundamentals Interview Q&A
 
+## What This Round Tests
+
+- Core security concepts
+- Real-world explanation ability
+- Clear communication under time pressure
+
+> Tip: Keep answers simple, practical, and example-driven.
+
 ## Q1 What is the CIA triad Give a practical example
 
 **Answer:**
@@ -7,43 +15,54 @@
 CIA stands for Confidentiality, Integrity, and Availability.
 
 - Confidentiality ensures only authorized users can access data.
-- Integrity ensures data is accurate and unaltered.
+- Integrity ensures data remains accurate and unaltered.
 - Availability ensures services are accessible when needed.
 
-Example: In online banking, account details must be private (C), transaction amounts must not be tampered (I), and app access must remain available during peak traffic (A).
+Example: In online banking, account details must stay private, transaction amounts must not be tampered with, and the app must remain available during peak traffic.
 
-## Q2: Difference between threat, vulnerability, and risk?
-
-**Answer:**
-
-- Threat is a potential attacker/event.
-- Vulnerability is weakness.
-- Risk is potential impact if threat exploits the weakness.
-
-Formula style explanation: Risk is approximately likelihood multiplied by impact.
-
-## Q3: What is defense in depth?
+## Q2 Difference between threat, vulnerability, and risk
 
 **Answer:**
 
-Defense in depth means implementing multiple layers of security, so if one control fails, others still protect the system.
+- Threat is a potential attacker or harmful event.
+- Vulnerability is a weakness in a system or process.
+- Risk is the potential business impact if a threat exploits a vulnerability.
 
-Example layers: endpoint protection, network segmentation, IAM controls, logging/SIEM, backup and recovery.
+Quick explanation: Risk is approximately likelihood multiplied by impact.
 
-## Q4: What is least privilege and why is it critical?
+## Q3 What is defense in depth
 
 **Answer:**
 
-Least privilege gives users/services only permissions needed for their job. It reduces blast radius from account compromise and insider misuse.
+Defense in depth means implementing multiple layers of security so that if one control fails, others still provide protection.
 
-Operationally, I implement it via role templates, temporary elevation, periodic access reviews, and alerts on privilege escalation.
+Examples include:
 
-## Q5: How do you respond to a phishing incident?
+- Endpoint protection
+- Network segmentation
+- IAM controls
+- Logging and SIEM
+- Backup and recovery
 
-**Answer (real-time style):**
+## Q4 What is least privilege and why is it critical
 
-1. Contain: isolate affected account/device.
-2. Eradicate: reset credentials, revoke sessions/tokens.
-3. Investigate: review mail logs, endpoint events, and suspicious lateral movement.
-4. Recover: restore trust, monitor for recurrence.
-5. Improve: user awareness training and phishing-resistant MFA.
+**Answer:**
+
+Least privilege gives users and services only the permissions required for their role. It reduces the blast radius from account compromise and insider misuse.
+
+Operationally, I implement it through:
+
+- Role templates
+- Temporary elevation
+- Periodic access reviews
+- Alerts on privilege escalation
+
+## Q5 How do you respond to a phishing incident
+
+**Answer real-time style:**
+
+1. Contain by isolating the affected account or device.
+2. Eradicate by resetting credentials and revoking active sessions or tokens.
+3. Investigate mail logs, endpoint events, and suspicious lateral movement.
+4. Recover safely and monitor for recurrence.
+5. Improve controls with user awareness training and phishing-resistant MFA.

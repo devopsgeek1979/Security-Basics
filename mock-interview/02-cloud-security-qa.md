@@ -1,5 +1,13 @@
 # Cloud Security Mock Interview Q&A
 
+## Round Snapshot
+
+- Focus: IAM, posture, exposure, and containment
+- Best answer style: policy-aware and architecture-aware
+- What interviewers look for: guardrails, governance, and response speed
+
+> Tip: Mention prevention, detection, and remediation in the same answer when possible.
+
 ## 1 Explain cloud shared responsibility with example
 
 Provider secures physical infrastructure and managed service foundations, while customer secures identities, data, configurations, and workload permissions. Example: provider secures hypervisor, customer secures object storage bucket policies.
@@ -10,7 +18,12 @@ Cloud posture management continuously evaluates cloud resources against security
 
 ## 3 How do you secure object storage
 
-Block public access by default, use least-privilege bucket policies, enable encryption, enforce versioning, enable access logs, and monitor anomalous data egress.
+- Block public access by default
+- Use least-privilege bucket policies
+- Enable encryption
+- Enforce versioning
+- Enable access logs
+- Monitor anomalous data egress
 
 ## 4 What is identity federation and why useful
 
@@ -38,7 +51,12 @@ Use least-privilege service accounts, restrict API server access, enforce admiss
 
 ## 10 What should cloud incident response start with
 
-Contain exposure quickly, snapshot evidence safely, preserve audit logs, rotate keys, isolate compromised resources, and open a structured incident timeline.
+- Contain exposure quickly
+- Snapshot evidence safely
+- Preserve audit logs
+- Rotate keys
+- Isolate compromised resources
+- Open a structured incident timeline
 
 ## 11 How do you enforce compliance continuously
 
@@ -62,7 +80,7 @@ Remove public access, assess data exposure window, rotate credentials, review qu
 
 ## 16 How would you secure multi-account architecture
 
-Separate workloads by environment and business unit, use centralized identity, enforce guardrails via org policies, and centralize logging/security monitoring.
+Separate workloads by environment and business unit, use centralized identity, enforce guardrails through organization policies, and centralize logging and security monitoring.
 
 ## 17 What is cloud threat modeling
 

@@ -1,5 +1,13 @@
 # SOC Analyst Mock Interview Q&A
 
+## Round Snapshot
+
+- Focus: detection, triage, containment, and escalation
+- Best answer style: concise, evidence-based, and time-aware
+- What interviewers look for: prioritization and incident judgment
+
+> Tip: Speak like an analyst on shift. Mention evidence, impact, and next action.
+
 ## 1 How do you triage a high-severity alert
 
 Start with asset criticality, alert confidence, and blast radius. Validate signal quality from log source, check related indicators, and map to MITRE ATT&CK. If business-critical assets are involved, escalate immediately and begin containment.
@@ -14,7 +22,12 @@ Normalization converts logs from different sources into a consistent schema so a
 
 ## 4 What logs are most important during investigation
 
-Authentication logs, endpoint telemetry, DNS logs, proxy/firewall logs, cloud audit trails, and application logs with request identity context.
+- Authentication logs
+- Endpoint telemetry
+- DNS logs
+- Proxy and firewall logs
+- Cloud audit trails
+- Application logs with identity context
 
 ## 5 How do you investigate suspicious PowerShell usage
 
@@ -34,7 +47,13 @@ Enable temporary lockouts, enforce MFA, apply rate limiting, block abusive IP ra
 
 ## 9 What should an incident timeline include
 
-Detection time, alert source, analyst actions, containment milestones, communication events, business impact, and recovery confirmation.
+- Detection time
+- Alert source
+- Analyst actions
+- Containment milestones
+- Communication events
+- Business impact
+- Recovery confirmation
 
 ## 10 How do you prioritize multiple simultaneous alerts
 
@@ -54,7 +73,13 @@ Containment limits attacker ability to expand damage. It can be short-term like 
 
 ## 14 What KPIs should a SOC report weekly
 
-MTTD, MTTR, true-positive rate, alert volume by severity, incidents by tactic, unresolved backlog, and control improvement actions.
+- MTTD
+- MTTR
+- True-positive rate
+- Alert volume by severity
+- Incidents by tactic
+- Unresolved backlog
+- Control improvement actions
 
 ## 15 How do you validate an endpoint compromise
 

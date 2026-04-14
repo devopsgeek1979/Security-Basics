@@ -2,6 +2,13 @@
 
 This folder contains high-quality, interview-ready question banks for realistic security interview preparation.
 
+## Why This Section Feels Different
+
+- Scenario-first questions
+- Short-answer practice flow
+- Real-world language used in interviews
+- Track-wise preparation for targeted roles
+
 ## Tracks
 
 - `01-soc-analyst-qa.md`
@@ -15,6 +22,13 @@ This folder contains high-quality, interview-ready question banks for realistic 
 3. Use the model answer to fill gaps.
 4. Note two improvements per answer.
 5. Repeat with a timer and no notes.
+
+## Best Practice Format
+
+- Start with a direct answer.
+- Add one practical example.
+- Mention one control or tool.
+- Close with risk or outcome.
 
 ## Target Outcome
 
