@@ -107,7 +107,7 @@ Use the curated topic-wise references in [`resources/youtube-references.md`](./r
 
 ## Contributor
 
-Name : Shyam Sunder - Tech Lead (Securoty) @ VVDN Technologies, Gurugram
+Name : Shyam Sunder - Tech Lead (Security) @ VVDN Technologies, Gurugram
 
 ## Thanks Note
 
