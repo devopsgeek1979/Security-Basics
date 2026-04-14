@@ -111,6 +111,8 @@ Use the curated topic-wise references in [`resources/youtube-references.md`](./r
 | --- | --- | --- | --- |
 | Shyam Sunder | Tech Lead (Security) | VVDN Technologies | Gurugram |
 
-## Thanks Note
+## Acknowledgements
 
-Special thanks to **Shyam Sunder** for valuable guidance, support, and contribution toward the creation of this repository. Your leadership and practical security insights are deeply appreciated.
+> Special thanks to **Shyam Sunder** for valuable guidance, support, and contribution toward the creation of this repository.
+>
+> Your leadership and practical security insights are sincerely appreciated.
