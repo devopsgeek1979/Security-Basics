@@ -14,6 +14,8 @@ These are topic-focused YouTube videos and playlists chosen for interview prepar
 
 ## How to Use These Links
 
+- GitHub does not support forcing README links to open in a separate tab.
+- On macOS, use `Cmd` + click to open a video in a new tab.
 - Start with one beginner-friendly overview video.
 - Follow it with one topic-specific deep dive.
 - Take notes in your own words after each video.
