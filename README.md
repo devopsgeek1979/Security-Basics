@@ -104,3 +104,11 @@ Use the curated topic-wise references in [`resources/youtube-references.md`](./r
 - Add detection engineering examples
 - Add architecture diagrams and threat models
 - Add role-specific mock rounds
+
+## Contributor
+
+Name : Shyam Sunder - Tech Lead (Securoty) @ VVDN Technologies, Gurugram
+
+## Thanks Note
+
+Special thanks to **Shyam Sunder** for valuable guidance, support, and contribution toward the creation of this repository. Your leadership and practical security insights are deeply appreciated.
