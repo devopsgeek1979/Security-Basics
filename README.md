@@ -107,7 +107,9 @@ Use the curated topic-wise references in [`resources/youtube-references.md`](./r
 
 ## Contributor
 
-Name : Shyam Sunder - Tech Lead (Security) @ VVDN Technologies, Gurugram
+| Name | Role | Organization | Location |
+| --- | --- | --- | --- |
+| Shyam Sunder | Tech Lead (Security) | VVDN Technologies | Gurugram |
 
 ## Thanks Note
 
