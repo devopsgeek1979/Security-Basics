@@ -1,5 +1,12 @@
 # 02. Network Security Basics
 
+## Table of Contents
+
+- [Key Concepts](#key-concepts)
+- [Network Layers and Threats](#network-layers-and-threats)
+- [Common Controls](#common-controls)
+- [Incident Scenario](#incident-scenario)
+
 ## Key Concepts
 
 - **Firewall:** Filters traffic based on rules.

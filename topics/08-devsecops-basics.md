@@ -1,10 +1,17 @@
 # 08. DevSecOps Basics
 
+## Table of Contents
+
+- [What is DevSecOps?](#what-is-devsecops)
+- [Security in CI-CD Pipeline](#security-in-ci-cd-pipeline)
+- [Shift-Left + Shift-Right](#shift-left--shift-right)
+- [Real-World Controls](#real-world-controls)
+
 ## What is DevSecOps?
 
 DevSecOps integrates security into development and operations workflows from day one.
 
-## Security in CI/CD Pipeline
+## Security in CI-CD Pipeline
 
 - Pre-commit: secret scanning, linting
 - Build: SAST, dependency checks, IaC scanning

@@ -1,5 +1,14 @@
 # 03. Web Security and OWASP Basics
 
+## Table of Contents
+
+- [OWASP Top Risks (Interview Focus)](#owasp-top-risks-interview-focus)
+- [High-Value Attacks to Know](#high-value-attacks-to-know)
+- [SQL Injection](#sql-injection)
+- [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
+- [CSRF](#csrf)
+- [Secure SDLC Basics](#secure-sdlc-basics)
+
 ## OWASP Top Risks (Interview Focus)
 
 - Broken access control

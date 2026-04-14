@@ -1,5 +1,27 @@
 # SOC Analyst Mock Interview Q&A
 
+## Table of Contents
+
+- [Round Snapshot](#round-snapshot)
+- [1 How do you triage a high-severity alert](#1-how-do-you-triage-a-high-severity-alert)
+- [2 What are false positives and how do you reduce them](#2-what-are-false-positives-and-how-do-you-reduce-them)
+- [3 Explain SIEM normalization in simple terms](#3-explain-siem-normalization-in-simple-terms)
+- [4 What logs are most important during investigation](#4-what-logs-are-most-important-during-investigation)
+- [5 How do you investigate suspicious PowerShell usage](#5-how-do-you-investigate-suspicious-powershell-usage)
+- [6 What is MITRE ATT&CK and why does SOC use it](#6-what-is-mitre-attck-and-why-does-soc-use-it)
+- [7 Difference between IOC and IOA](#7-difference-between-ioc-and-ioa)
+- [8 How do you respond to brute-force login attempts](#8-how-do-you-respond-to-brute-force-login-attempts)
+- [9 What should an incident timeline include](#9-what-should-an-incident-timeline-include)
+- [10 How do you prioritize multiple simultaneous alerts](#10-how-do-you-prioritize-multiple-simultaneous-alerts)
+- [11 What is lateral movement and how detect it](#11-what-is-lateral-movement-and-how-detect-it)
+- [12 How would you handle ransomware early signs](#12-how-would-you-handle-ransomware-early-signs)
+- [13 What does containment mean in incident response](#13-what-does-containment-mean-in-incident-response)
+- [14 What KPIs should a SOC report weekly](#14-what-kpis-should-a-soc-report-weekly)
+- [15 How do you validate an endpoint compromise](#15-how-do-you-validate-an-endpoint-compromise)
+- [16 What is threat hunting vs alert response](#16-what-is-threat-hunting-vs-alert-response)
+- [17 Explain a good escalation note](#17-explain-a-good-escalation-note)
+- [18 How do you reduce dwell time](#18-how-do-you-reduce-dwell-time)
+
 ## Round Snapshot
 
 - Focus: detection, triage, containment, and escalation

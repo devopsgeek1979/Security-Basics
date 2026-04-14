@@ -1,5 +1,12 @@
 # 04. Identity and Access Management (IAM)
 
+## Table of Contents
+
+- [Core Terms](#core-terms)
+- [IAM Building Blocks](#iam-building-blocks)
+- [Best Practices](#best-practices)
+- [Interview Scenario](#interview-scenario)
+
 ## Core Terms
 
 - **Authentication (AuthN):** Who are you?

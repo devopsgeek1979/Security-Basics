@@ -1,5 +1,12 @@
 # 05. Cryptography Basics
 
+## Table of Contents
+
+- [Key Concepts](#key-concepts)
+- [Symmetric vs Asymmetric Encryption](#symmetric-vs-asymmetric-encryption)
+- [TLS/HTTPS (High-Level)](#tlshttps-high-level)
+- [Password Storage](#password-storage)
+
 ## Key Concepts
 
 - **Encryption:** Converts plaintext to ciphertext.

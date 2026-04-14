@@ -1,5 +1,26 @@
 # DevSecOps Mock Interview Q&A
 
+## Table of Contents
+
+- [Round Snapshot](#round-snapshot)
+- [1 What is DevSecOps in one minute](#1-what-is-devsecops-in-one-minute)
+- [2 Which security checks belong in CI pipeline](#2-which-security-checks-belong-in-ci-pipeline)
+- [3 How do you manage vulnerable dependencies](#3-how-do-you-manage-vulnerable-dependencies)
+- [4 What is shift-left security practically](#4-what-is-shift-left-security-practically)
+- [5 What is shift-right security practically](#5-what-is-shift-right-security-practically)
+- [6 How do you secure Terraform pipelines](#6-how-do-you-secure-terraform-pipelines)
+- [7 What is artifact signing and why needed](#7-what-is-artifact-signing-and-why-needed)
+- [8 How do you prevent secret leaks in repositories](#8-how-do-you-prevent-secret-leaks-in-repositories)
+- [9 How do you design security gates without slowing teams](#9-how-do-you-design-security-gates-without-slowing-teams)
+- [10 Explain SAST vs DAST quickly](#10-explain-sast-vs-dast-quickly)
+- [11 What is policy-as-code](#11-what-is-policy-as-code)
+- [12 How do you secure containers](#12-how-do-you-secure-containers)
+- [13 How do you handle a critical finding on release day](#13-how-do-you-handle-a-critical-finding-on-release-day)
+- [14 What metrics prove DevSecOps maturity](#14-what-metrics-prove-devsecops-maturity)
+- [15 How does threat modeling help developers](#15-how-does-threat-modeling-help-developers)
+- [16 How do you secure CI runners](#16-how-do-you-secure-ci-runners)
+- [17 What is secure release evidence](#17-what-is-secure-release-evidence)
+
 ## Round Snapshot
 
 - Focus: secure pipelines, supply chain, and release governance

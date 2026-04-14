@@ -1,5 +1,13 @@
 # 04. HR and Behavioral Security Q&A
 
+## Table of Contents
+
+- [What This Round Tests](#what-this-round-tests)
+- [Q1 Tell me about a security issue you handled](#q1-tell-me-about-a-security-issue-you-handled)
+- [Q2 How do you balance security and delivery speed](#q2-how-do-you-balance-security-and-delivery-speed)
+- [Q3 How do you stay updated in security](#q3-how-do-you-stay-updated-in-security)
+- [Q4 If team resists security controls what do you do](#q4-if-team-resists-security-controls-what-do-you-do)
+
 ## What This Round Tests
 
 - Communication clarity

@@ -1,5 +1,14 @@
 # Security Interview Roadmap
 
+## Table of Contents
+
+- [Option A: 14-Day Fast Track](#option-a-14-day-fast-track)
+- [Week 1 (Core Concepts)](#week-1-core-concepts)
+- [Week 2 (Practical + Interview Depth)](#week-2-practical--interview-depth)
+- [Option B: 4-Week Deep Prep](#option-b-4-week-deep-prep)
+- [Daily Routine (Recommended)](#daily-routine-recommended)
+- [Interview-Ready Checklist](#interview-ready-checklist)
+
 ## Option A: 14-Day Fast Track
 
 ### Week 1 (Core Concepts)

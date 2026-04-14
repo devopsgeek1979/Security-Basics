@@ -1,5 +1,14 @@
 # 01. Fundamentals Interview Q&A
 
+## Table of Contents
+
+- [What This Round Tests](#what-this-round-tests)
+- [Q1 What is the CIA triad Give a practical example](#q1-what-is-the-cia-triad-give-a-practical-example)
+- [Q2 Difference between threat, vulnerability, and risk](#q2-difference-between-threat-vulnerability-and-risk)
+- [Q3 What is defense in depth](#q3-what-is-defense-in-depth)
+- [Q4 What is least privilege and why is it critical](#q4-what-is-least-privilege-and-why-is-it-critical)
+- [Q5 How do you respond to a phishing incident](#q5-how-do-you-respond-to-a-phishing-incident)
+
 ## What This Round Tests
 
 - Core security concepts

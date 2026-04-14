@@ -1,5 +1,15 @@
 # YouTube References by Topic
 
+## Table of Contents
+
+- [Security Foundations](#security-foundations)
+- [Network Security](#network-security)
+- [Web Security and OWASP](#web-security-and-owasp)
+- [IAM and Zero Trust](#iam-and-zero-trust)
+- [Cryptography](#cryptography)
+- [Cloud Security](#cloud-security)
+- [DevSecOps](#devsecops)
+
 These are topic-focused YouTube search links and reliable channels/playlists for interview prep.
 
 ## Security Foundations

@@ -4,6 +4,20 @@ Interview-ready cybersecurity fundamentals with real-world Q&A, guided study pla
 
 If you find this repository useful, give it a star.
 
+## Table of Contents
+
+- [Why This Repo](#why-this-repo)
+- [What You Will Learn](#what-you-will-learn)
+- [Quick Navigation](#quick-navigation)
+- [Repository Structure](#repository-structure)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Interview-Ready Study Paths](#interview-ready-study-paths)
+- [Roles This Repo Helps You Target](#roles-this-repo-helps-you-target)
+- [YouTube-Based Learning](#youtube-based-learning)
+- [Contribution Ideas](#contribution-ideas)
+- [Contributor](#contributor)
+- [Acknowledgements](#acknowledgements)
+
 ![Focus](https://img.shields.io/badge/Focus-Interview%20Preparation-0ea5e9)
 ![Coverage](https://img.shields.io/badge/Topics-Foundations%20to%20DevSecOps-22c55e)
 ![Format](https://img.shields.io/badge/Format-Notes%20%2B%20Q%26A%20%2B%20Roadmap-f59e0b)

@@ -1,5 +1,12 @@
 # Security Interview Cheat Sheet
 
+## Table of Contents
+
+- [One-Line Definitions](#one-line-definitions)
+- [Top Practical Controls](#top-practical-controls)
+- [30-Second Interview Framework](#30-second-interview-framework)
+- [Incident Response Quick Steps](#incident-response-quick-steps)
+
 ## One-Line Definitions
 
 - **CIA triad:** Confidentiality, Integrity, Availability.

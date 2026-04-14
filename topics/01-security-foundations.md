@@ -1,10 +1,20 @@
 # 01. Security Foundations
 
+## Table of Contents
+
+- [Why Security Matters](#why-security-matters)
+- [CIA Triad](#cia-triad)
+- [Threat, Vulnerability, Risk](#threat-vulnerability-risk)
+- [Security Principles](#security-principles)
+- [Common Attack Types](#common-attack-types)
+- [Practical Interview Tip](#practical-interview-tip)
+
 ## Why Security Matters
 
 Security protects **confidentiality, integrity, and availability** of systems and data.
 
 In business terms, security protects:
+
 - customer trust,
 - compliance posture,
 - revenue continuity,
@@ -50,4 +60,5 @@ In business terms, security protects:
 ## Practical Interview Tip
 
 When answering, connect concept to operations:
+
 - "I enforce least privilege using role-based access, quarterly access reviews, and break-glass monitoring."

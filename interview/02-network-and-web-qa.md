@@ -1,5 +1,14 @@
 # 02. Network and Web Interview Q&A
 
+## Table of Contents
+
+- [What This Round Tests](#what-this-round-tests)
+- [Q1 Explain SQL injection and one mitigation strategy](#q1-explain-sql-injection-and-one-mitigation-strategy)
+- [Q2 Explain XSS and how CSP helps](#q2-explain-xss-and-how-csp-helps)
+- [Q3 Difference between IDS and IPS](#q3-difference-between-ids-and-ips)
+- [Q4 What is SSRF and why is it dangerous](#q4-what-is-ssrf-and-why-is-it-dangerous)
+- [Q5 Web app under attack with high 500 errors What first](#q5-web-app-under-attack-with-high-500-errors-what-first)
+
 ## What This Round Tests
 
 - Network security basics

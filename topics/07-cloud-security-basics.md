@@ -1,5 +1,12 @@
 # 07. Cloud Security Basics
 
+## Table of Contents
+
+- [Shared Responsibility Model](#shared-responsibility-model)
+- [Core Cloud Security Controls](#core-cloud-security-controls)
+- [Common Misconfigurations](#common-misconfigurations)
+- [Incident Scenario](#incident-scenario)
+
 ## Shared Responsibility Model
 
 - **Cloud provider:** Security *of* the cloud.

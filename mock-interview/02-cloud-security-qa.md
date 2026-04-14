@@ -1,5 +1,26 @@
 # Cloud Security Mock Interview Q&A
 
+## Table of Contents
+
+- [Round Snapshot](#round-snapshot)
+- [1 Explain cloud shared responsibility with example](#1-explain-cloud-shared-responsibility-with-example)
+- [2 What is cloud posture management](#2-what-is-cloud-posture-management)
+- [3 How do you secure object storage](#3-how-do-you-secure-object-storage)
+- [4 What is identity federation and why useful](#4-what-is-identity-federation-and-why-useful)
+- [5 How do you protect cloud secrets](#5-how-do-you-protect-cloud-secrets)
+- [6 What is a dangerous IAM anti-pattern](#6-what-is-a-dangerous-iam-anti-pattern)
+- [7 How do you detect crypto-mining in cloud](#7-how-do-you-detect-crypto-mining-in-cloud)
+- [8 Explain network segmentation in cloud](#8-explain-network-segmentation-in-cloud)
+- [9 How do you secure Kubernetes in cloud](#9-how-do-you-secure-kubernetes-in-cloud)
+- [10 What should cloud incident response start with](#10-what-should-cloud-incident-response-start-with)
+- [11 How do you enforce compliance continuously](#11-how-do-you-enforce-compliance-continuously)
+- [12 What is data exfiltration risk in cloud](#12-what-is-data-exfiltration-risk-in-cloud)
+- [13 How do you secure serverless workloads](#13-how-do-you-secure-serverless-workloads)
+- [14 Explain cloud key management basics](#14-explain-cloud-key-management-basics)
+- [15 What do you do after accidental public database exposure](#15-what-do-you-do-after-accidental-public-database-exposure)
+- [16 How would you secure multi-account architecture](#16-how-would-you-secure-multi-account-architecture)
+- [17 What is cloud threat modeling](#17-what-is-cloud-threat-modeling)
+
 ## Round Snapshot
 
 - Focus: IAM, posture, exposure, and containment

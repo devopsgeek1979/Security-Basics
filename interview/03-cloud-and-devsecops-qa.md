@@ -1,5 +1,14 @@
 # 03. Cloud and DevSecOps Interview Q&A
 
+## Table of Contents
+
+- [What This Round Tests](#what-this-round-tests)
+- [Q1 Explain cloud shared responsibility model](#q1-explain-cloud-shared-responsibility-model)
+- [Q2 How do you secure secrets in CI/CD](#q2-how-do-you-secure-secrets-in-cicd)
+- [Q3 What checks would you add to a pipeline before deployment](#q3-what-checks-would-you-add-to-a-pipeline-before-deployment)
+- [Q4 Public cloud key leaked in repository What now](#q4-public-cloud-key-leaked-in-repository-what-now)
+- [Q5 How would you prioritize vulnerabilities in production](#q5-how-would-you-prioritize-vulnerabilities-in-production)
+
 ## What This Round Tests
 
 - Cloud security fundamentals
